@@ -1,2 +1,4 @@
-package part1.tack1;public class test {
+package part1.tack1;
+
+public class test {
 }

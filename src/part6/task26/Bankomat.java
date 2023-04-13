@@ -16,12 +16,12 @@ public class Bankomat {
             System.out.println("100 = " + Banknotes100);
         }
 
-        public void vvod(){
 
-            System.out.println("Введите Кол-во 20 ");
-            int in = scanner.nextInt();
-            Banknotes20 += in;
+            public void vvod(){
 
+                System.out.println("Введите Кол-во 20 ");
+                int in = scanner.nextInt();
+                Banknotes20 += in;
             System.out.println("Введите Кол-во 50 ");
             in = scanner.nextInt();
             Banknotes50 += in;
